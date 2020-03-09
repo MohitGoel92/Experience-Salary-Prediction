@@ -4,7 +4,7 @@ This repository contains a simple dataset that is analysed using Simple Linear R
 
 The data has been fitted a linear regressor due to the high level of correlation between the two variables, this can be observed by the scatter plot below:
 
-<img src = 'Screen_Shot_1.png' width='1000'>
+<img src = 'Screen_Shot_1.png' width='700'>
 
 The output of the code below code (OLS - Ordinary Least Squares) <br />
 ```
