@@ -8,11 +8,11 @@ This repository contains a simple dataset that is analysed using Simple Linear R
 
 The output of the code below code (OLS - Ordinary Least Squares) <br />
 ```
-import statsmodels.api as sm <br />
-X = np.append(np.ones((30,1)).astype(int), X, axis = 1) <br />
-Reg_OLS = sm.OLS(endog = y, exog = X).fit() <br /> 
-summary = Reg_OLS.summary() <br />
-print(summary) <br />
+import statsmodels.api as sm 
+X = np.append(np.ones((30,1)).astype(int), X, axis = 1) 
+Reg_OLS = sm.OLS(endog = y, exog = X).fit() 
+summary = Reg_OLS.summary()
+print(summary) 
 ```
 is as follows
 
