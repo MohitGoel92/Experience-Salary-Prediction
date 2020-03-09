@@ -12,7 +12,7 @@ print(summary)
 
 is as follows
 
-<img src = 'Screen_shot.png' width='100'>
+<img src = 'Screen_shot.png' width='1000'>
 
 From the above output, we can estiablish:
 
