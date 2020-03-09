@@ -16,17 +16,6 @@ print(summary)
 ```
 is as follows
 
-<img src = 'Screen_shot.png' width='1000'>
-
-From the above output, we can estiablish:
-
-The regressor takes the following equation with the coefficients from the above output:  
-Expected_salary = 25790 + 9450*(Years_of_experience)
-
-R-squared and Adj R-Squared are both 0.96
-
-The P values are much lower than 0.05, indicating that the variable X1 (Years of experience) is statistically significant.
-
 ```
                             OLS Regression Results                            
 ==============================================================================
@@ -51,3 +40,12 @@ Skew:                           0.363   Prob(JB):                        0.456
 Kurtosis:                       2.147   Cond. No.                         13.2
 ==============================================================================
 ```
+
+From the above output, we can estiablish:
+
+The regressor takes the following equation with the coefficients from the above output:  
+Expected_salary = 25790 + 9450*(Years_of_experience)
+
+R-squared and Adj R-Squared are both 0.96
+
+The P values are much lower than 0.05, indicating that the variable X1 (Years of experience) is statistically significant.
