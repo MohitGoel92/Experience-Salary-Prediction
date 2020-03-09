@@ -7,13 +7,13 @@ The data has been fitted a linear regressor due to the high level of correlation
 This repository contains a simple dataset that is analysed using Simple Linear Regression. 
 
 The output of the code below code (OLS - Ordinary Least Squares)
-
+'''
 import statsmodels.api as sm <br />
 X = np.append(np.ones((30,1)).astype(int), X, axis = 1) <br />
 Reg_OLS = sm.OLS(endog = y, exog = X).fit() <br /> 
 summary = Reg_OLS.summary() <br />
 print(summary) <br />
-
+'''
 is as follows
 
 <img src = 'Screen_shot.png' width='1000'>
