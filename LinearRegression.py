@@ -1,4 +1,4 @@
-# Project
+# Simple Linear Regression Analysis
 
 # Importing the libraries
 
