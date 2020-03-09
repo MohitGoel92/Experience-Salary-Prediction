@@ -3,7 +3,7 @@
 This repository contains a simple dataset that is analysed using Simple Linear Regression. 
 
 The output of the code below code (OLS - Ordinary Least Squares)
-
+print('string')
 import statsmodels.api as sm <br />
 X = np.append(np.ones((30,1)).astype(int), X, axis = 1) <br />
 Reg_OLS = sm.OLS(endog = y, exog = X).fit() <br /> 
