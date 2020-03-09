@@ -12,7 +12,7 @@ print(summary)
 
 is as follows
 
-'''
+
                             OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                      y   R-squared:                       0.957
@@ -35,7 +35,7 @@ Prob(Omnibus):                  0.343   Jarque-Bera (JB):                1.569
 Skew:                           0.363   Prob(JB):                        0.456
 Kurtosis:                       2.147   Cond. No.                         13.2
 ==============================================================================
-'''
+
 
 From the above output, we can estiablish:
 
