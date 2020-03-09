@@ -12,7 +12,7 @@ print(summary)
 
 is as follows
 
-
+<img src = '' width='100'>
 
 From the above output, we can estiablish:
 
