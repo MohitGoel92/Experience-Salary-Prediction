@@ -1,6 +1,6 @@
 # Simple-Linear-Regression
 
-This repository contains a simple dataset that is analysed using Simple Linear Regression. 
+We will be analysing a simple dataset using Linear Regression. 
 
 The data has been fitted a linear regressor due to the high level of correlation between the two variables, this can be observed by the scatter plot below:
 
@@ -41,10 +41,15 @@ Kurtosis:                       2.147   Cond. No.                         13.2
 ==============================================================================
 ```
 
-From the above output, we can estiablish:
+From the above output, we can state the below observations:
 
-The regressor takes the following equation with the coefficients from the above output:  
+The regressor takes the following function with the coefficients from the above output:  
+
 Expected_salary = 25790 + 9450*(Years_of_experience)
+
+From the above, we can interpret the following:
+- The base salary for a junior with no experience should be a minimum of £25,790
+- For every additional year of experience an individual has, their salary is expected to increase by £9,450
 
 R-squared and Adj R-Squared are both 0.96
 
