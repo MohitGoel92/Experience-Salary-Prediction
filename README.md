@@ -1,4 +1,4 @@
-# Simple-Linear-Regression
+# Linear Regression
 
 We will be analysing a simple dataset using Linear Regression. 
 
